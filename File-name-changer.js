@@ -3,7 +3,7 @@ class fileRenamer {
 
     constructor() {
         //this file path should be the folder with your pictures in
-        this.filepath = './Dank-Memes/';
+        this.filepath = './File-Path-here/';
         //requires for node modules
         this.fs = require('fs');
         this.path = require('path');
